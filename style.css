@@ -1,0 +1,11 @@
+#Apps{
+background-color: rgb(135, 145, 189);
+padding: 20px;
+}
+h1{
+    font-size: 40px;
+    background-color: aliceblue;
+    width: 60%;
+    margin: 8px auto;
+    border-radius: 10px;
+}
